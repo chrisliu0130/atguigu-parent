@@ -1,0 +1,11 @@
+com\atguigu\entities\CaseBatch.class
+com\atguigu\entities\CaseInfoWithBLOBs.class
+com\atguigu\entities\EntrustWithBLOBs.class
+com\atguigu\entities\CaseInfo.class
+com\atguigu\entities\EmployeeInfoWithBLOBs.class
+com\atguigu\entities\SysPosition.class
+com\atguigu\entities\CaseBatchWithBLOBs.class
+com\atguigu\entities\Entrust.class
+com\atguigu\entities\EmployeeInfo.class
+com\atguigu\entities\CasePaid.class
+com\atguigu\entities\SysOrganization.class
